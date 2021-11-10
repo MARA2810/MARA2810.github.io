@@ -24,7 +24,7 @@
     width: 500px;
     font-size: 65px;
     padding: 95px;   
-    font-family: cursive;
+    font-family: cursive, Arial;
     text-shadow: 6px 10px 2px #000;
     border-radius: 50px;
     letter-spacing: 30px;
@@ -42,7 +42,7 @@
     width: 500px;
     font-size: 65px;
     padding: 95px;
-    font-family: cursive;  
+    font-family: cursive, Arial;
     text-shadow: 6px 10px 2px #000;
     border-radius: 50px;
     letter-spacing: 15px;   
