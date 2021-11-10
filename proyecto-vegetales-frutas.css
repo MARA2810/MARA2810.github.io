@@ -1,0 +1,111 @@
+/*Pagina inicial*/
+.body-inicio
+{
+    background-image: url(fondo.jpg);  
+    background-size:cover;
+}
+.bloque-1
+{
+    margin-top: 15%;    
+    margin-bottom: 15%; 
+    
+    text-align: center;
+
+    font-size: 200px;
+   
+
+}    
+
+.fruta
+{
+    background-image: url(fondo-frutas2.jpg);
+    background-position-y: -150px;
+    background-size: cover;
+    width: 50%;
+    font-size: 65px;
+    padding: 95px;   
+    font-family: cursive;
+    text-shadow: 6px 10px 2px #000;
+    border-radius: 50px;
+    letter-spacing: 30px;
+    display: inline-block;
+   
+   
+    
+}
+
+.vegetal
+{
+    background-image: url(fondo-vegetales2.jpg);
+    background-position-y: -170px;
+    background-size: cover;
+    width: 50%;
+    font-size: 65px;
+    padding: 95px;
+    font-family: cursive;  
+    text-shadow: 6px 10px 2px #000;
+    border-radius: 50px;
+    letter-spacing: 15px;   
+    display: inline-block;
+    
+}
+
+.frut
+{
+    display: inline-block;
+    transition-duration: 0.6s;  
+    
+}
+.frut:hover
+{
+
+    transform: scale(1.12);
+
+}
+
+.a-frut
+{
+    color: rgb(228, 89, 96);
+    text-decoration: none;
+}
+.a-frut:hover
+{
+    
+    color: rgb(233, 162, 165);
+    transition-duration: 1s;
+    
+}
+
+.veg
+{
+    
+    display: inline-block;
+    
+    transition-duration: 0.6s; 
+   
+}
+
+.veg:hover
+{
+    transform: scale(1.12);
+   
+}
+.a-veg
+{
+    color: rgb(138, 197, 60);
+    text-decoration: none;
+}
+
+.a-veg:hover
+{
+    color: rgb(196, 219, 165);
+    transition-duration: 1s;
+}
+
+
+
+
+
+/*VEGETALES*/
+
+
