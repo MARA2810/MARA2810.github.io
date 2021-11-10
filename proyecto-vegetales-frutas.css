@@ -21,7 +21,7 @@
     background-image: url(fondo-frutas2.jpg);
     background-position-y: -150px;
     background-size: cover;
-    width: 50%;
+    width: 500px;
     font-size: 65px;
     padding: 95px;   
     font-family: cursive;
@@ -39,7 +39,7 @@
     background-image: url(fondo-vegetales2.jpg);
     background-position-y: -170px;
     background-size: cover;
-    width: 50%;
+    width: 500px;
     font-size: 65px;
     padding: 95px;
     font-family: cursive;  
